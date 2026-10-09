@@ -43,7 +43,9 @@
             <td><?= $eventoAtual['local'] ?></td>
             <td><?= $eventoAtual['responsavel'] ?></td>
         </tr>
-    </table>
+  </table>
+
+  <a href="./edicao.php">Editar</a>
     
 </body>
 </html>
